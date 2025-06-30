@@ -67,15 +67,10 @@ This project aims to:
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/felippeneves/kotlin-compose-mvi-animals-app.git
+git clone https://github.com/rdangwal226/MVIComposeApp.git
 cd kotlin-compose-mvi-animals-app
 ```
 
 Open in Android Studio (Iguana or newer) and run the `app` module on an emulator or physical device.
 
 ---
-
-
-## 🤝 Contributing
-
-Feel free to fork, suggest improvements or open a PR! All contributions are welcome 🚀
