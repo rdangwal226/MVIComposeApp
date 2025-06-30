@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MVI App</string>
+    <string name="animal_list_title">Animals</string>
+    <string name="animal_detail_title">Animal Detail</string>
+    <string name="fetch_animals">Fetch Animals</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="try_again">Try Again</string>
+    <string name="animal_details_title">Animal Details</string>
+    <string name="location">Location</string>
+    <string name="diet">Diet</string>
+    <string name="lifespan">Lifespan</string>
+    <string name="taxonomy">Taxonomy</string>
+    <string name="kingdom">Kingdom</string>
+    <string name="order">Order</string>
+    <string name="family">Family</string>
+    <string name="speed">Speed</string>
+    <string name="metric">Metric</string>
+    <string name="imperial">Imperial</string>
+    <string name="n_a">N/A</string>
+</resources>
