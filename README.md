@@ -1,4 +1,4 @@
-# 🐾 Kotlin Compose MVI Animals App
+# 🐾 Kotlin Compose MVI App
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.0.0-blue.svg)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-blue?logo=android)](https://developer.android.com/jetpack/compose)
