@@ -80,5 +80,9 @@ class AnimalListViewModel @Inject constructor(
         }
     }
 
+    override fun onCleared() {
+        super.onCleared()
+    }
+
     // endregion Actions
 }
