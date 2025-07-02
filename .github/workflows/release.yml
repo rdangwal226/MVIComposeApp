@@ -56,7 +56,7 @@ jobs:
         signingBase64: ${{ secrets.ANDROID_KEYSTORE }}
         keystorePassword: ${{ secrets.KEYSTORE_PASSWORD }}
         alias: ${{ secrets.ANDROID_DEVS_ALIAS }}
-        keyPassword: ${{ secrets.ANDROID_DEVS_ALIAS_PASSWORD
+        keyPassword: ${{ secrets.ANDROID_DEVS_ALIAS_PASSWORD}}
 
      - name: Grant execution permission forgradlew
        run: chmod +x gradlew
