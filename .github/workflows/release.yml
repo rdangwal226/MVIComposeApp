@@ -41,7 +41,7 @@ jobs:
         cache: 'gradle'
 
      - name : Version Bump
-       uses: chkfung/android-version-bump@v1.0.0
+       uses: chkfung/version-bump-actions@v1.2.2
        with:
         gradlePath: app/build.gradle.kts
         versionCode: ${{ github.run_number }}
